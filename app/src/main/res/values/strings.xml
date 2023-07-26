@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PROBLEM SOLVER</string>
+    <string name="welcome_to_the_problem_solver">Welcome to the Problem Solver</string>
+    <string name="please_choose_a_problem">Please choose a problem:</string>
+    <string name="welcome_to_the_fwgc_problem">Welcome to the FWGC Problem</string>
+    <string name="fwgcins">There is a boat at the river\'s \nedge that only the farmer\n can row.The farmer can \n take at most one other \n object besides himself on \n a crossing but if the wolf is \n ever left with the goat, \n the wolf will eat the goat; \n similarly, if the goat is left \n with the cabbage, the goat\n  will eat the cabbage. \n  Devise a sequence of crossings\n   of the riverso that all four characters \n   arrive safely on the other side.</string>
+    <string name="fwgc_intro">A farmer and his wolf, goat, and cabbage come to the edge of a river te wish to cross:</string>
+    <string name="fwgc_start">"     |       |   \n F  |       |   \n W |       |   \n G  |       |   \n C  |       |   \n     |       |   \n"</string>
+    <string name="fwgc_end">"    |      |   \n    |      | F  \n    |      | W  \n    |      | G  \n    |      | C  \n    |      |   \n"</string>
+    <string name="puzzle_intro">you are given a board in which number tiles can slide around. There is one blank space that holds no tile.Here is an example: </string>
+    <string name="puzzle_tt">A legal move consists of sliding a tile into the blan spaxe if the tile is adjacent to it. The goal is to move tiles around tiles around until the board looks like this: </string>
+    <string name="puzzle_start">+---+---+---+\n| \ 2  \| \ 8 \ | \ 3\ |\n+---+---+---+\n|  1  \ |\ 6  \ | \ 4 \ | \n+---+---+---+\n|\  7 \ |  \ \  |  \ 5\  |\n+---+---+---+</string>
+    <string name="puzzle_end">+---+---+---+\n| \ 1  \| \ 2 \ | \3 \ |\n+---+---+---+\n|  8  \ | \   \  | \ 4 \ | \n+---+---+---+\n|\ 7 \ |  \ 6 \  |  \ 5\ |\n+---+---+---+</string>
+    <string name="Puzzle15_start">+---+---+---+---+\n|  5 \  |  1 \  |  2 \  |  3 \ |\n+---+---+---+---+\n|  6 \ | \  \  |  7 \  |  \  4  |\n+---+---+---+---+\n|  9 \ |  10 \ | 11 \ |8 |\n+---+---+---+---+\n| 13|  14  |  15 | 12|\n+---+---+---+---+</string>
+    <string name="Puzzle15_end">+---+---+---+---+\n|  1  \ |  2 \  |   3 \ |  4 \ |\n+---+---+---+---+\n|  5 \ |  6 \ |  7 \ |  8 \  | \n+---+---+---+---+\n|  9  |  10  |  11  | 12 |\n+---+---+---+---+\n|  13  | 14 |  15 |  \ \  |\n+---+---+---+---+</string>
+    <string name="fwgc">FWGC</string>
+    <string name="_8_puzzle">8 PUZZLE</string>
+    <string name="welcome_to_the_8_puzzle_problem">welcome to the 8 puzzle problem</string>
+    <string name="begin_fwgc_problem">Begin FWGC Problem</string>
+    <string name="reset">RESET</string>
+    <string name="solve">SOLVE</string>
+    <string name="goal_state">Goal State</string>
+    <string name="textview">TextView</string>
+    <string name="moves">Moves</string>
+    <string name="current_state">Current State</string>
+    <string name="next">NEXT</string>
+    <string name="benchmarks">Benchmarks:</string>
+    <string name="goal_stateP">Goal state</string>
+
+</resources>
